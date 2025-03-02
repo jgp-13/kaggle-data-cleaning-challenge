@@ -9,6 +9,6 @@ setup(
         "numpy",
         "matplotlib",
         "seaborn",
-        "pickle5"  # Optional, if needed for Python 3.8 compatibility
+    
     ],
 )

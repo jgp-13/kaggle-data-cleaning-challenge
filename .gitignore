@@ -174,4 +174,4 @@ dmypy.json
 cython_debug/
 
 # Raw data zip files
-./data/d0-raw/*.zip
+data/d0-raw/*.zip

@@ -39,15 +39,15 @@ Kaggle-Data_Cleaning_Challenge/
 ## Setup Instructions
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/jgp-13/kaggle-data-cleaning-challenge
 cd Kaggle-Data_Cleaning_Challenge
 ```
 
 ### 2. Set Up the Environment
-If using Conda, create and activate the environment (if `environment.yml` exists):
+If using Conda, create and activate the environment:
 ```bash
 conda env create -f environment.yml
-conda activate kaggle-data-cleaning
+conda activate kaggle-cleaning
 ```
 Otherwise, install dependencies manually using `pip`:
 ```bash

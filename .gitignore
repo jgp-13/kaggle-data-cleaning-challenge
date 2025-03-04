@@ -175,4 +175,4 @@ cython_debug/
 
 # Raw data zip files
 data/d0-raw/*.zip
-Untitled.ipynb
+**/Untitled*.ipynb

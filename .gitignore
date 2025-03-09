@@ -176,3 +176,8 @@ cython_debug/
 # Raw data zip files
 data/d0-raw/*.zip
 **/Untitled*.ipynb
+
+# Ignore all CSV files in data directories
+data/d0-raw/*.csv
+data/d2-clean/*.csv
+

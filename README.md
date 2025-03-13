@@ -45,6 +45,10 @@ Kaggle-Data_Cleaning_Challenge/
 │   │── nb4-data-cleaning-challenge-character-encodings.ipynb
 │   │── nb5-data-cleaning-challenge-inconsistent-data-entry.ipynb
 |   |── nb6-data-cleaning-challenge-full-cleaning.ipyb
+│── data/      # Scripts and utilities
+│   │── d0-raw/
+│   │── d1-interim/
+│   │── d2-clean/
 │── kaggle_cleaning/      # Scripts and utilities
 │   │── config.py
 │   │── data.py

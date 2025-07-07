@@ -4,19 +4,22 @@
 This repository contains Jupyter notebooks for the **Kaggle Data Cleaning Challenge**, a hands-on project focused on improving data quality through various preprocessing techniques. The challenge consists of five key tasks:
 
 1. **Handling Missing Values** – Identifying and addressing missing data issues.  
-   [Access Notebook on Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values)
+   [Access Notebook](https://github.com/jgp-13/kaggle-data-cleaning-challenge/blob/main/notebooks/nb1-data-cleaning-challenge-handling-missing-values.ipynb) or [Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values)
    
 2. **Parsing Dates** – Standardizing date formats for consistency.  
-   [Access Notebook on Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-parsing-dates)
+   [Access Notebook](notebooks/nb2-data-cleaning-challenge-scale-and-normalize-data.ipynb) or [Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-parsing-dates)
    
 3. **Scaling and Normalizing Data** – Preparing numerical data for analysis by applying appropriate transformations.  
-   [Access Notebook on Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-scale-and-normalize-data)
+   [Access Notebook](notebooks/nb3-data-cleaning-challenge-parsing-dates.ipynb) or [Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-scale-and-normalize-data)
    
 4. **Handling Character Encodings** – Resolving text encoding issues to ensure data integrity.  
-   [Access Notebook on Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-character-encodings)
+   [Access Notebook](notebooks/nb3-data-cleaning-challenge-parsing-dates.ipynb) on [Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-character-encodings)
    
 5. **Fixing Inconsistent Data Entry** – Standardizing categorical values to remove inconsistencies.  
-   [Access Notebook on Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-inconsistent-data-entry)  
+   [Access Notebook](notebooks/nb5-data-cleaning-challenge-inconsistent-data-entry.ipynb) or  [Kaggle](https://www.kaggle.com/code/rtatman/data-cleaning-challenge-inconsistent-data-entry)
+
+6. **Full Data Cleaning Workflow** – Integrating all previous cleaning steps into a complete, reproducible workflow.  
+   [Access Notebook](notebooks/nb6-data-cleaning-challenge-full-cleaning.ipynb)     
    *(This notebook also provides the dataset for the final task, nb6)*
 
 These notebooks demonstrate practical data cleaning techniques using Python and `pandas` within a structured Jupyter Lab environment.
